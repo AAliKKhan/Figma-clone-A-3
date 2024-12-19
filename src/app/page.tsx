@@ -1,25 +1,4 @@
-// import Image from "next/image";
 
-// export default function Home() {
-//   return (
-//    <div className="">
-//     <div className="w-[1280px] h-[80px] mx-auto bg-header flex "></div>
-//     <div className="w-[1280px] mx-auto">
-//       <h1 className="mt-[244px] ml-[62px] text-44px font-700">Welcome To Our Website</h1>
-//       <p className="mt-[74px] ml-[68px] text-32px font-400">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem quae pariatur ratione, quis magnam debitis unde qui quisquam laborum. Id aut doloribus velit neque recusandae amet pariatur sit corporis ipsam?</p>
-//       <button className="w-[237px] h-[66px] mt-[204px] ml-[68px] text-28px font-400 text-white bg-button">Contact Us</button>
-//     </div>
-//     <div className="w-[1280px] mx-auto">
-//       <Image 
-//       src="/img1.png"
-//       alt="IMAGE"
-//       width={502}
-//       height={465}
-//       className=" "/>
-//     </div>
-//    </div>
-//   );
-// }
 
 import Image from "next/image";
 
